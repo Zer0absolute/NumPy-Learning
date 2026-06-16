@@ -1,5 +1,9 @@
 # Projet NumPy
 
+## Branch names
+
+I use prefix `LP{number}` to name my branches and for commit i use `LP{number}: `
+
 ## Sources
 
 - [MML Book](https://mml-book.github.io/)
