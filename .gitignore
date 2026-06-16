@@ -1,0 +1,23 @@
+# Environnement virtuel
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Tests / couverture
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Fichiers système / éditeurs
+.DS_Store
+.vscode/
+.idea/
+
+# Données générées
+data/processed/
